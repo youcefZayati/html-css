@@ -8,5 +8,16 @@
   margin: 0 auto;*/
   margin-top: 5%;
 
+}
+.l_nav{
+  display: inline;
 
+}
+.r_nav{
+  display:inline-block;
+}
+
+.footer li{
+  display: inline;
+  line-height: 40px;
 }
